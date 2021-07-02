@@ -11,6 +11,6 @@ This is where I share my thoughts on varios things. I try to post regularly ever
 
 
 ## All posts
-- [02/07/2021: post 03](/post03.md)
+- [02/07/2021: post 03](post03.md)
 - [11/05/2021: post01](/post01.md)
 - [05/05/2021: post](post.md)
