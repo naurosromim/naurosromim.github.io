@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thinking clearly 🧐</title>
+    <link>https://naurosromim.github.io/</link>
+    <description>Recent content on Thinking clearly 🧐</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 May 2023 22:37:25 +0600</lastBuildDate><atom:link href="https://naurosromim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post2</title>
+      <link>https://naurosromim.github.io/blog/post2/</link>
+      <pubDate>Thu, 15 Jun 2023 15:11:50 +0600</pubDate>
+      
+      <guid>https://naurosromim.github.io/blog/post2/</guid>
+      <description>fdghjhgj fghjk trfyghu</description>
+    </item>
+    
+    <item>
+      <title>Post1</title>
+      <link>https://naurosromim.github.io/blog/post1/</link>
+      <pubDate>Thu, 15 Jun 2023 15:11:37 +0600</pubDate>
+      
+      <guid>https://naurosromim.github.io/blog/post1/</guid>
+      <description>lkjlkj ljlj lkjl</description>
+    </item>
+    
+  </channel>
+</rss>
