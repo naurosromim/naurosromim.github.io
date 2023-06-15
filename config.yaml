@@ -4,6 +4,9 @@ title: 'Thinking clearly 🧐'
 defaultContentLanguage: 'en'
 enableRobotsTXT: true
 
+permalinks:
+  blog: /:filename/
+
 publishDir: "docs"
 
 params:
