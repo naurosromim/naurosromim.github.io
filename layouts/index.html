@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+<h2>Blog</h2>
+
+<!-- get posts from a specific directory -->
+{{ range ( where .Site.RegularPages "Type" "blog")}}
+<li>
+    <a href="{{.RelPermalink}}">{{.Date | time.Format ":date_short" }} - {{.Title}}</a>
+</li>
+{{ end }}
+
+{{ end }}
